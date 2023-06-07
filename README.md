@@ -50,5 +50,7 @@
     │   ├── country net.ipynb    // Extraction of the country where the photo was taken, analysis of the photographer's footprint
     
     │   ├── photographer.ipynb    // Recap of awards for all countries
-    
- 
+
+Final integration + computational journalism content presentation:
+
+[What make a Prize? Presentation Page](https://kidult2226.github.io/AIDM-7410-Page/) 
